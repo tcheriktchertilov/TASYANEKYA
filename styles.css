@@ -506,7 +506,6 @@ body {
     }
 }
 
-/* --- Блок "Внешность" с картинкой --- */
 .appearance-wrapper {
     display: flex;
     gap: 30px;
